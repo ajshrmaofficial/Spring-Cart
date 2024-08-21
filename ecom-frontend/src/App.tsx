@@ -21,13 +21,5 @@ function App(){
   )
 }
 
-// function App(){
-//   return(
-//     <div className="h-svh w-4/5 mx-auto">
-//       <NavBar/>
-//       <Outlet/>
-//     </div>
-//   )
-// }
-
 export default App;
+
